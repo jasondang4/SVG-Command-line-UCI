@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-None-blue.svg)
 
+link to YouTube video showing how to use the command-line: https://youtu.be/akqsZKDcueE
+
 In this project I was tasked with creating a command-line that would dynamically ask questions about a svg file that the user would want to create. Then after the users input, the command-line would generate a svg file that has the requirements that the user input. This task was very challenging for me, and I ran into numerous issues such as getting the shapes to appear, getting the shapes the right size, getting the text color to be different than the shape color, and also getting the text to appear ontop of the shape. Overall this challenge was very insightful to the numerous things one can accomplish with node. It has definetly opened my eyes in terms of how vast and challenging node can truly be.
 
 ## Table of Contents
